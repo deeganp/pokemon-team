@@ -15,3 +15,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+export const useClient = true;
